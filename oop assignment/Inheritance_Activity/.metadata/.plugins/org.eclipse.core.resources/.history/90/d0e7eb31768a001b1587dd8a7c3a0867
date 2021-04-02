@@ -1,0 +1,8 @@
+package com.real;
+
+public class InheritanceActivity {
+
+	public static void main(String[] args) {
+		new Manager(126534, "Peter", "Chennai India", 237844);
+	}
+}
